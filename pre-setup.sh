@@ -1,6 +1,6 @@
-mkdir -p $HOME/goo/src/github.com/masquerade0127
+mkdir -p $HOME/go/src/github.com/masquerade0127
 
-cd $HOME/goo/src/github.com/masquerade0127
+cd $HOME/go/src/github.com/masquerade0127
 
 git clone https://github.com/Masquerade0127/caliper-workspace.git
 
